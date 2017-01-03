@@ -1,0 +1,12 @@
+/*page*/
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{background-image: url("../img/bgi.jpg");}
+a{text-decoration: none; color: white;}
+/*wrap*/
+#wrap {width: 1800px; height: 1000px; margin: 0 auto;}
+
+/*header*/
+.logo {width: 180px; height: 120px; float: left}
+.top {width: 280px; height: 120px; float: right;}
+.top > ul {width: 400px; height: 120px; overflow: hidden; float: right; text-align: center; list-style: none; font-size: 13px;}
+.top > ul > li{width:60px; float:left; list-style:none;}
